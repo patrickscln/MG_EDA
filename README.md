@@ -1,6 +1,10 @@
 # Descripcion general
 
-El analisis exploratiorio contenido en este repositorio se realizo para la informacion recolectada en un restaurante de mariscos. Dicha infomacion consiste de 216 observaciones de la interacion del los clientes con las diferentes 115 opciones del menu.  
+El analisis exploratiorio contenido en este repositorio se realizo para la informacion recolectada en un restaurante de mariscos. Dicha infomacion consiste de 216 observaciones de la interacion del los clientes con las diferentes 115 opciones del menu.
+
+#Jupyter Notebook
+
+[EDA Mariscos Guasave](https://github.com/patrickscln/MG_EDA/blob/main/src/MG_EDA.ipynb) 
 
 # Estructura de repositorio
 
